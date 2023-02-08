@@ -248,6 +248,7 @@
     color: #fff;
     font-size: 20px;
     background: rgba(255, 255, 255, 0.333);
+    z-index: 3;
 
     .desc {
       font-size: 26px;
