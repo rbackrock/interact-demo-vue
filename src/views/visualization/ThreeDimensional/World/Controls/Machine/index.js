@@ -116,5 +116,7 @@ export default class Machine {
       this.radarAnimation.kill()
       this.radarAnimation = null
     }
+
+    document.querySelector('#machine-label-hook').style.display = 'none'
   }
 }

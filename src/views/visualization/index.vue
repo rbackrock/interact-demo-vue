@@ -277,6 +277,9 @@
     // height: 100%;
     color: #00deff;
     display: none;
+    // position: absolute;
+    // left: 0;
+    // top: 0;
 
     &.visible {
       display: block;

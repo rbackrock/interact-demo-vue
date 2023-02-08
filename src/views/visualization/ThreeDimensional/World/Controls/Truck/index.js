@@ -164,5 +164,7 @@ export default class Truck {
       this.radarAnimation.kill()
       this.radarAnimation = null
     }
+
+    document.querySelector('#truck-label-hook').style.display = 'none'
   }
 }
