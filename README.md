@@ -1,3 +1,3 @@
 # interact-demo-vue
 
-尝试交互效果
+尝试基于 threejs 的交互效果
